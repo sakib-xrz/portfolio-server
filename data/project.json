@@ -1,0 +1,132 @@
+[
+  {
+    "id": "01",
+    "projectName": "Swap Deal",
+    "img": "https://i.ibb.co/0Fk4k5t/project1.png",
+    "description": "Swap Deal is a used product's resale website with a dedicated admin panel. User, Seller, and admin roles added with the Google authentication system.",
+    "liveLink": "https://swap-deal-bd.web.app/",
+    "clientLink": "https://github.com/sakib-xrz/swap-deal-client",
+    "serverLink": "https://github.com/sakib-xrz/swap-deal-server",
+    "details": [
+      "⚫️ A complete website with dedicated admin panel",
+
+      "⚫️ There is a dashboard to manage admin panel and services.",
+
+      "⚫️ Used React-Router Advance Concepts And Protected Routes.",
+
+      "⚫️ Used Firebase For Authentication.",
+
+      "⚫️ You can Login with Google.",
+
+      "⚫️ Used Environment Variables To Hide Some Secret Data.",
+
+      "⚫️ Used Tailwind CSS Framework.",
+
+      "⚫️ Used React Icons for show icons."
+    ],
+    "screenshots": [
+      "https://i.ibb.co/K6wpxWz/p1s1.png",
+      "https://i.ibb.co/M76rK0x/p1s2.png",
+      "https://i.ibb.co/VVvtMzB/p1s3.png",
+      "https://i.ibb.co/bsYLVdH/p1s4.png",
+      "https://i.ibb.co/5FBYYM3/p1s5.png",
+      "https://i.ibb.co/n3p1zdH/p1s6.png"
+    ],
+    "technology": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "JWT"
+    ]
+  },
+  {
+    "id": "02",
+    "projectName": "Pixel Pictures",
+    "img": "https://i.ibb.co/VYXgknP/project2.png",
+    "description": "Service Website including add or remove services. Form to leave reviews for the clients to show on the details page. Option to add more services to all service page.",
+    "liveLink": "https://service-review-6ef0e.web.app/",
+    "clientLink": "https://github.com/sakib-xrz/service-review-client",
+    "serverLink": "https://github.com/sakib-xrz/service-review-server",
+    "details": [
+      "⚫️ Used React Router V6 For Routes.",
+
+      "⚫️ Used React-Router Advance Concepts And Protected Routes.",
+
+      "⚫️ Used Firebase For Authentication.",
+
+      "⚫️ You can Login with Google.",
+
+      "⚫️ Used Environment Variables To Hide Some Secret Data.",
+
+      "⚫️ Used Tailwind CSS Framework.",
+
+      "⚫️ Used React Icons for show icons.",
+
+      "⚫️ Used react-photo-view Package to view image in full screen."
+    ],
+    "screenshots": [
+      "https://i.ibb.co/vJG5dkx/p2s1.png",
+      "https://i.ibb.co/DCcbJD6/p2s2.png",
+      "https://i.ibb.co/7JN2FQH/p2s3.png",
+      "https://i.ibb.co/89Zf0tJ/p2s4.png",
+      "https://i.ibb.co/R3P100x/p2s5.png"
+    ],
+    "technology": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "JWT",
+      "React Photo View"
+    ]
+  },
+  {
+    "id": "03",
+    "projectName": "Code Easy",
+    "img": "https://i.ibb.co/V3cfW60/project3.png",
+    "description": "E-learning Website for web developers. Log In method with private route feature. Option to download course details page as a pdf.",
+    "liveLink": "https://code-easy-client.web.app/",
+    "clientLink": "https://github.com/sakib-xrz/code-easy-client",
+    "serverLink": "https://github.com/sakib-xrz/code-easy-server",
+    "details": [
+      "⚫️ Used React Router V6 For Routes.",
+
+      "⚫️ Used React-Router Advance Concepts And Protected Routes.",
+
+      "⚫️ Used Firebase For Authentication.",
+
+      "⚫️ You can Login with Google.",
+
+      "⚫️ Used Environment Variables To Hide Some Secret Data.",
+
+      "⚫️ Used Tailwind CSS Framework.",
+
+      "⚫️ Used React Icons for show icons.",
+
+      "⚫️ Used React-To-Pdf Package to generate and download PDF."
+    ],
+    "screenshots": [
+      "https://i.ibb.co/bFGgQ6L/p3s1.png",
+      "https://i.ibb.co/Mfyspmv/p3s2.png",
+      "https://i.ibb.co/hf6HsJJ/p3s4.png"
+    ],
+    "technology": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "daisyUI",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "React to PDF Package"
+    ]
+  }
+]
